@@ -1,0 +1,346 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="46204" filedate="2010-02-09 21:51:49" width="514px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2010-02-11 21:03:56" width="12px" height="12px">
+</image>
+<image path="images/fig001.jpg" filesize="34139" filedate="2010-02-09 21:56:19" width="535px" height="579px">
+</image>
+<image path="images/fig002.gif" filesize="40227" filedate="2010-02-10 13:51:41" width="720px" height="391px">
+</image>
+<image path="images/fig003.jpg" filesize="31343" filedate="2010-02-10 13:52:23" width="257px" height="720px">
+</image>
+<image path="images/fig004.jpg" filesize="7899" filedate="2010-02-10 13:52:55" width="194px" height="204px">
+</image>
+<image path="images/fig005.jpg" filesize="27675" filedate="2010-02-10 13:53:28" width="363px" height="372px">
+</image>
+<image path="images/fig006.gif" filesize="5029" filedate="2010-02-10 13:54:02" width="313px" height="244px">
+</image>
+<image path="images/fig007.jpg" filesize="8591" filedate="2010-02-10 13:55:07" width="154px" height="202px">
+</image>
+<image path="images/fig008.gif" filesize="8703" filedate="2010-02-10 13:55:40" width="238px" height="530px">
+</image>
+<image path="images/fig009.jpg" filesize="29050" filedate="2010-02-10 13:56:14" width="367px" height="331px">
+</image>
+<image path="images/fig010.jpg" filesize="61108" filedate="2010-02-10 13:56:42" width="684px" height="643px">
+</image>
+<image path="images/fig011.jpg" filesize="44255" filedate="2010-02-10 13:57:28" width="684px" height="348px">
+</image>
+<image path="images/fig012.jpg" filesize="33484" filedate="2010-02-09 21:50:57" width="607px" height="619px">
+</image>
+<image path="images/fig013.gif" filesize="7104" filedate="2010-02-10 13:58:08" width="303px" height="270px">
+</image>
+<image path="images/fig014.jpg" filesize="49050" filedate="2010-02-10 13:58:51" width="720px" height="428px">
+</image>
+<image path="images/fig015.jpg" filesize="53615" filedate="2010-02-10 13:59:31" width="278px" height="720px">
+</image>
+<image path="images/fig016.gif" filesize="9939" filedate="2010-02-10 14:00:06" width="318px" height="341px">
+</image>
+<image path="images/fig017.jpg" filesize="59928" filedate="2010-02-10 14:00:47" width="333px" height="720px">
+</image>
+<image path="images/fig018.gif" filesize="32258" filedate="2010-02-10 14:01:22" width="506px" height="520px">
+</image>
+<image path="images/fig019.jpg" filesize="48117" filedate="2010-02-10 14:01:57" width="521px" height="454px">
+</image>
+<image path="images/fig020.gif" filesize="9891" filedate="2010-02-10 14:04:15" width="317px" height="341px">
+</image>
+<image path="images/fig021.gif" filesize="4217" filedate="2010-02-10 14:59:53" width="175px" height="410px">
+</image>
+<image path="images/fig022.gif" filesize="11837" filedate="2010-02-10 15:00:30" width="312px" height="337px">
+</image>
+<image path="images/fig023.gif" filesize="15188" filedate="2010-02-10 15:01:10" width="317px" height="498px">
+</image>
+<image path="images/fig024.gif" filesize="10971" filedate="2010-02-10 15:01:42" width="314px" height="295px">
+</image>
+<image path="images/fig025.gif" filesize="20679" filedate="2010-02-10 15:02:29" width="237px" height="720px">
+</image>
+<image path="images/fig026.gif" filesize="5315" filedate="2010-02-10 15:02:54" width="313px" height="181px">
+</image>
+<image path="images/fig027.gif" filesize="4767" filedate="2010-02-10 15:03:19" width="320px" height="193px">
+</image>
+<image path="images/fig028.gif" filesize="6722" filedate="2010-02-10 15:03:53" width="203px" height="287px">
+</image>
+<image path="images/fig029.gif" filesize="3473" filedate="2010-02-10 15:04:21" width="95px" height="286px">
+</image>
+<image path="images/fig030.gif" filesize="2302" filedate="2010-02-10 15:04:51" width="66px" height="320px">
+</image>
+<image path="images/fig031.gif" filesize="5143" filedate="2010-02-10 15:05:26" width="157px" height="205px">
+</image>
+<image path="images/fig032.jpg" filesize="4624" filedate="2010-02-11 21:09:39" width="176px" height="68px">
+</image>
+<image path="images/fig033.gif" filesize="11068" filedate="2010-02-10 15:06:42" width="437px" height="248px">
+</image>
+<image path="images/fig034.jpg" filesize="17407" filedate="2010-02-10 15:07:18" width="307px" height="195px">
+</image>
+<image path="images/fig035.jpg" filesize="9677" filedate="2010-02-10 15:07:57" width="252px" height="201px">
+</image>
+<image path="images/fig036.gif" filesize="6227" filedate="2010-02-10 15:09:45" width="324px" height="189px">
+</image>
+<image path="images/fig037.jpg" filesize="27309" filedate="2010-02-10 15:09:05" width="536px" height="351px">
+</image>
+<image path="images/fig038.jpg" filesize="37480" filedate="2010-02-10 15:10:38" width="368px" height="554px">
+</image>
+<image path="images/fig039.jpg" filesize="14132" filedate="2010-02-10 15:11:13" width="414px" height="189px">
+</image>
+<image path="images/fig040.jpg" filesize="43381" filedate="2010-02-09 21:57:03" width="509px" height="334px">
+</image>
+<image path="images/fig041.jpg" filesize="94684" filedate="2010-02-10 15:12:00" width="616px" height="475px">
+</image>
+<image path="images/fig042.jpg" filesize="49914" filedate="2010-02-10 15:12:32" width="578px" height="319px">
+</image>
+<image path="images/fig043.jpg" filesize="46902" filedate="2010-02-10 15:13:05" width="508px" height="293px">
+</image>
+<image path="images/fig044.jpg" filesize="27745" filedate="2010-02-10 15:14:04" width="496px" height="235px">
+</image>
+<image path="images/fig045.jpg" filesize="25798" filedate="2010-02-10 15:14:29" width="422px" height="242px">
+</image>
+<image path="images/fig046.jpg" filesize="28105" filedate="2010-02-10 15:15:04" width="524px" height="352px">
+</image>
+<image path="images/fig047.jpg" filesize="79135" filedate="2010-02-10 15:15:37" width="545px" height="477px">
+</image>
+<image path="images/fig048.jpg" filesize="18736" filedate="2010-02-10 15:16:02" width="477px" height="229px">
+</image>
+<image path="images/fig049.jpg" filesize="11560" filedate="2010-02-10 15:16:33" width="281px" height="146px">
+</image>
+<image path="images/fig050.gif" filesize="15183" filedate="2010-02-10 15:17:09" width="401px" height="322px">
+</image>
+<image path="images/fig051.jpg" filesize="25995" filedate="2010-02-11 19:58:02" width="415px" height="244px">
+</image>
+<image path="images/fig052.jpg" filesize="74737" filedate="2010-02-11 19:58:34" width="590px" height="456px">
+</image>
+<image path="images/fig053.jpg" filesize="124870" filedate="2010-02-11 19:59:22" width="720px" height="633px">
+</image>
+<image path="images/fig054.jpg" filesize="97140" filedate="2010-02-11 20:00:01" width="720px" height="444px">
+</image>
+<image path="images/fig055.jpg" filesize="82701" filedate="2010-02-11 20:00:35" width="662px" height="537px">
+</image>
+<image path="images/fig056.jpg" filesize="86842" filedate="2010-02-11 20:01:03" width="575px" height="438px">
+</image>
+<image path="images/fig057.jpg" filesize="11534" filedate="2010-02-11 20:01:35" width="144px" height="347px">
+</image>
+<image path="images/fig058.jpg" filesize="14890" filedate="2010-02-11 20:02:04" width="359px" height="180px">
+</image>
+<image path="images/fig059.jpg" filesize="31133" filedate="2010-02-11 20:02:38" width="324px" height="334px">
+</image>
+<image path="images/fig060.jpg" filesize="49587" filedate="2010-02-11 20:03:34" width="481px" height="454px">
+</image>
+<image path="images/fig061.jpg" filesize="44793" filedate="2010-02-13 21:56:36" width="378px" height="551px">
+</image>
+<image path="images/fig062.jpg" filesize="34390" filedate="2010-02-13 21:57:23" width="266px" height="532px">
+</image>
+<image path="images/fig063.gif" filesize="11285" filedate="2010-02-13 21:58:15" width="265px" height="318px">
+</image>
+<image path="images/fig064.jpg" filesize="60883" filedate="2010-02-13 21:58:58" width="595px" height="419px">
+</image>
+<image path="images/fig065.gif" filesize="32213" filedate="2010-02-13 21:59:47" width="523px" height="283px">
+</image>
+<image path="images/fig066.jpg" filesize="76741" filedate="2010-02-13 22:00:19" width="599px" height="424px">
+</image>
+<image path="images/fig067.jpg" filesize="69978" filedate="2010-02-13 22:00:53" width="614px" height="424px">
+</image>
+<image path="images/fig068.gif" filesize="11770" filedate="2010-02-13 22:01:29" width="288px" height="262px">
+</image>
+<image path="images/fig069.jpg" filesize="79322" filedate="2010-02-13 22:02:23" width="538px" height="560px">
+</image>
+<image path="images/fig070.gif" filesize="34408" filedate="2010-02-13 22:03:07" width="439px" height="593px">
+</image>
+<image path="images/fig071.gif" filesize="60355" filedate="2010-02-13 22:03:44" width="686px" height="625px">
+</image>
+<image path="images/fig072.gif" filesize="21218" filedate="2010-02-13 22:04:28" width="408px" height="478px">
+</image>
+<image path="images/fig073.gif" filesize="19806" filedate="2010-02-13 22:05:05" width="350px" height="270px">
+</image>
+<image path="images/fig074.jpg" filesize="25322" filedate="2010-02-13 22:05:48" width="428px" height="242px">
+</image>
+<image path="images/fig075.jpg" filesize="98034" filedate="2010-02-13 22:06:28" width="683px" height="592px">
+</image>
+<image path="images/fig076.jpg" filesize="92751" filedate="2010-02-13 22:07:06" width="453px" height="574px">
+</image>
+<image path="images/fig077.jpg" filesize="22042" filedate="2010-02-13 22:07:39" width="258px" height="426px">
+</image>
+<image path="images/fig078.gif" filesize="4345" filedate="2010-02-13 22:08:18" width="163px" height="237px">
+</image>
+<image path="images/fig079.jpg" filesize="21722" filedate="2010-02-13 22:09:12" width="417px" height="330px">
+</image>
+<image path="images/fig080.jpg" filesize="100076" filedate="2010-02-13 22:10:22" width="559px" height="590px">
+</image>
+<image path="images/fig081.jpg" filesize="111863" filedate="2010-02-14 11:39:48" width="657px" height="523px">
+</image>
+<image path="images/fig082.jpg" filesize="46684" filedate="2010-02-14 11:40:21" width="482px" height="369px">
+</image>
+<image path="images/fig083.jpg" filesize="58391" filedate="2010-02-14 11:41:12" width="489px" height="345px">
+</image>
+<image path="images/fig084.jpg" filesize="127419" filedate="2010-02-14 11:41:45" width="608px" height="639px">
+</image>
+<image path="images/fig085.jpg" filesize="68742" filedate="2010-02-14 11:42:19" width="645px" height="549px">
+</image>
+<image path="images/fig086.jpg" filesize="45812" filedate="2010-02-14 11:42:56" width="427px" height="371px">
+</image>
+<image path="images/fig087.jpg" filesize="30760" filedate="2010-02-14 11:43:27" width="341px" height="335px">
+</image>
+<image path="images/fig088.jpg" filesize="132580" filedate="2010-02-14 11:44:01" width="666px" height="720px">
+</image>
+<image path="images/fig089.jpg" filesize="17445" filedate="2010-02-14 11:44:29" width="339px" height="261px">
+</image>
+<image path="images/fig090.jpg" filesize="43856" filedate="2010-02-14 11:45:03" width="410px" height="392px">
+</image>
+<image path="images/fig091.jpg" filesize="76334" filedate="2010-02-14 11:45:34" width="399px" height="507px">
+</image>
+<image path="images/fig092.jpg" filesize="27005" filedate="2010-02-14 11:46:06" width="366px" height="389px">
+</image>
+<image path="images/fig093.jpg" filesize="63892" filedate="2010-02-14 11:46:42" width="649px" height="318px">
+</image>
+<image path="images/fig094.jpg" filesize="135298" filedate="2010-02-14 11:47:18" width="555px" height="720px">
+</image>
+<image path="images/fig095.jpg" filesize="5332" filedate="2010-02-14 11:47:47" width="189px" height="112px">
+</image>
+<image path="images/fig096.jpg" filesize="64745" filedate="2010-02-14 11:48:32" width="436px" height="492px">
+</image>
+<image path="images/fig097.jpg" filesize="24530" filedate="2010-02-14 11:49:19" width="341px" height="293px">
+</image>
+<image path="images/fig098.jpg" filesize="53955" filedate="2010-02-14 11:49:47" width="496px" height="415px">
+</image>
+<image path="images/fig099.jpg" filesize="65523" filedate="2010-02-14 11:50:17" width="291px" height="709px">
+</image>
+<image path="images/fig100.jpg" filesize="64856" filedate="2010-02-14 11:50:57" width="501px" height="406px">
+</image>
+<image path="images/fig101.gif" filesize="15317" filedate="2010-02-14 12:11:54" width="609px" height="241px">
+</image>
+<image path="images/fig102.gif" filesize="10733" filedate="2010-02-14 12:12:37" width="592px" height="191px">
+</image>
+<image path="images/fig103.jpg" filesize="90420" filedate="2010-02-14 12:13:10" width="632px" height="428px">
+</image>
+<image path="images/fig104.jpg" filesize="48073" filedate="2010-02-14 12:13:44" width="498px" height="387px">
+</image>
+<image path="images/fig105.jpg" filesize="80564" filedate="2010-02-14 12:14:36" width="475px" height="556px">
+</image>
+<image path="images/fig106.jpg" filesize="80149" filedate="2010-02-14 12:15:06" width="575px" height="423px">
+</image>
+<image path="images/fig107.jpg" filesize="7112" filedate="2010-02-14 12:15:37" width="177px" height="165px">
+</image>
+<image path="images/fig108.jpg" filesize="67261" filedate="2010-02-14 12:16:19" width="491px" height="537px">
+</image>
+<image path="images/fig109.jpg" filesize="136023" filedate="2010-02-14 12:17:00" width="720px" height="548px">
+</image>
+<image path="images/fig110.jpg" filesize="107056" filedate="2010-02-14 12:17:28" width="657px" height="590px">
+</image>
+<image path="images/fig111.jpg" filesize="38779" filedate="2010-02-14 19:56:56" width="582px" height="278px">
+</image>
+<image path="images/fig112.jpg" filesize="17282" filedate="2010-02-14 19:57:27" width="556px" height="134px">
+</image>
+<image path="images/fig113.jpg" filesize="24996" filedate="2010-02-14 19:58:02" width="356px" height="598px">
+</image>
+<image path="images/fig114.jpg" filesize="6723" filedate="2010-02-14 20:07:05" width="270px" height="141px">
+</image>
+<image path="images/fig115.gif" filesize="10001" filedate="2010-02-14 20:10:14" width="450px" height="308px">
+</image>
+<image path="images/fig116.gif" filesize="16802" filedate="2010-02-14 20:10:59" width="378px" height="720px">
+</image>
+<image path="images/fig117.jpg" filesize="29065" filedate="2010-02-14 20:11:41" width="319px" height="496px">
+</image>
+<image path="images/fig118.gif" filesize="1724" filedate="2010-02-14 20:12:38" width="107px" height="177px">
+</image>
+<image path="images/fig119.jpg" filesize="46171" filedate="2010-02-14 20:13:12" width="424px" height="427px">
+</image>
+<image path="images/fig120.jpg" filesize="47773" filedate="2010-02-14 20:13:46" width="604px" height="285px">
+</image>
+<image path="images/fig121.jpg" filesize="57031" filedate="2010-02-14 20:14:17" width="581px" height="297px">
+</image>
+<image path="images/fig122.jpg" filesize="48863" filedate="2010-02-14 20:14:47" width="557px" height="551px">
+</image>
+<image path="images/fig123.jpg" filesize="26981" filedate="2010-02-14 20:15:26" width="522px" height="261px">
+</image>
+<image path="images/fig124.jpg" filesize="25801" filedate="2010-02-14 20:16:08" width="398px" height="467px">
+</image>
+<image path="images/fig125.gif" filesize="11237" filedate="2010-02-14 20:16:39" width="321px" height="397px">
+</image>
+<image path="images/fig126.jpg" filesize="8163" filedate="2010-02-14 20:17:12" width="164px" height="209px">
+</image>
+<image path="images/fig127.jpg" filesize="7615" filedate="2010-02-15 21:26:25" width="244px" height="94px">
+</image>
+<image path="images/fig128.jpg" filesize="17331" filedate="2010-02-15 21:26:55" width="286px" height="341px">
+</image>
+<image path="images/fig129.gif" filesize="59362" filedate="2010-02-16 20:32:10" width="486px" height="653px">
+</image>
+<image path="images/fig130.jpg" filesize="57828" filedate="2010-02-16 20:32:50" width="665px" height="216px">
+</image>
+<image path="images/fig131.jpg" filesize="9359" filedate="2010-02-16 20:33:38" width="286px" height="141px">
+</image>
+<image path="images/fig132.jpg" filesize="79373" filedate="2010-02-16 20:34:14" width="606px" height="647px">
+</image>
+<image path="images/fig133.jpg" filesize="85709" filedate="2010-02-16 20:34:46" width="720px" height="338px">
+</image>
+<image path="images/fig134.jpg" filesize="26769" filedate="2010-02-16 20:35:15" width="517px" height="215px">
+</image>
+<image path="images/fig135.jpg" filesize="17281" filedate="2010-02-16 20:35:49" width="226px" height="351px">
+</image>
+<image path="images/fig136.jpg" filesize="42277" filedate="2010-02-16 20:36:30" width="360px" height="431px">
+</image>
+<image path="images/fig137.jpg" filesize="95478" filedate="2010-02-16 20:37:06" width="720px" height="369px">
+</image>
+<image path="images/fig138.jpg" filesize="20113" filedate="2010-02-16 20:37:47" width="538px" height="217px">
+</image>
+<image path="images/fig139.gif" filesize="4752" filedate="2010-02-16 20:38:29" width="291px" height="183px">
+</image>
+<image path="images/fig140.jpg" filesize="23140" filedate="2010-02-16 20:39:01" width="309px" height="337px">
+</image>
+<image path="images/fig141.jpg" filesize="14081" filedate="2010-02-16 20:39:39" width="211px" height="183px">
+</image>
+<image path="images/fig142.jpg" filesize="49850" filedate="2010-02-16 20:40:09" width="425px" height="396px">
+</image>
+<image path="images/fig143.jpg" filesize="44927" filedate="2010-02-16 20:40:38" width="505px" height="350px">
+</image>
+<image path="images/fig144.jpg" filesize="18924" filedate="2010-02-16 20:41:17" width="211px" height="429px">
+</image>
+<image path="images/fig145.jpg" filesize="18173" filedate="2010-02-16 20:41:47" width="217px" height="331px">
+</image>
+<image path="images/fig146.jpg" filesize="14076" filedate="2010-02-16 20:42:18" width="254px" height="385px">
+</image>
+<image path="images/fig147.gif" filesize="5638" filedate="2010-02-16 20:42:52" width="175px" height="294px">
+</image>
+<image path="images/fig148.gif" filesize="1808" filedate="2010-02-16 20:43:26" width="94px" height="83px">
+</image>
+<image path="images/fig149.jpg" filesize="11595" filedate="2010-02-16 20:43:57" width="373px" height="190px">
+</image>
+<image path="images/fig150.jpg" filesize="6245" filedate="2010-02-16 20:44:31" width="72px" height="246px">
+</image>
+<image path="images/fig151.jpg" filesize="62821" filedate="2010-02-16 20:45:01" width="557px" height="319px">
+</image>
+<image path="images/fig152.jpg" filesize="33384" filedate="2010-02-16 20:45:28" width="541px" height="161px">
+</image>
+<image path="images/fig153.jpg" filesize="12898" filedate="2010-02-16 20:45:56" width="377px" height="210px">
+</image>
+<image path="images/fig154.jpg" filesize="11140" filedate="2010-02-16 20:46:27" width="231px" height="231px">
+</image>
+<image path="images/fig155.jpg" filesize="7065" filedate="2010-02-16 20:47:00" width="165px" height="202px">
+</image>
+<image path="images/fig156.jpg" filesize="19773" filedate="2010-02-16 20:47:32" width="168px" height="429px">
+</image>
+<image path="images/fig157.jpg" filesize="14994" filedate="2010-02-16 20:48:01" width="169px" height="423px">
+</image>
+<image path="images/fig158.jpg" filesize="18544" filedate="2010-02-16 20:48:33" width="515px" height="236px">
+</image>
+<image path="images/fig159.gif" filesize="4584" filedate="2010-02-16 20:49:03" width="84px" height="219px">
+</image>
+<image path="images/fig160.jpg" filesize="9104" filedate="2010-02-16 20:49:37" width="146px" height="253px">
+</image>
+<image path="images/fig161.gif" filesize="6555" filedate="2010-02-16 20:50:08" width="233px" height="141px">
+</image>
+<image path="images/fig162.jpg" filesize="36830" filedate="2010-02-16 20:50:37" width="553px" height="207px">
+</image>
+<image path="images/fig163.jpg" filesize="22619" filedate="2010-02-16 20:51:05" width="530px" height="181px">
+</image>
+<image path="images/fig164.gif" filesize="13222" filedate="2010-02-16 20:51:39" width="195px" height="436px">
+</image>
+<image path="images/fig165.gif" filesize="19051" filedate="2010-02-16 20:52:15" width="376px" height="194px">
+</image>
+<image path="images/spine.jpg" filesize="8556" filedate="2010-02-10 14:05:29" width="720px" height="45px">
+</image>
+<image path="images/title002.gif" filesize="12196" filedate="2010-02-09 21:59:04" width="518px" height="720px">
+</image>
+<image path="images/title003.gif" filesize="8608" filedate="2010-02-09 21:58:20" width="532px" height="720px">
+</image>
+</images>
