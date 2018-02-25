@@ -12,5 +12,5 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Author | Jan Ritzema Bos (1850–1928) |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2010-02-17 |
 | Publication date | 2010-02-17 |
-| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org. Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net. |
+| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de [Project Gutenberg Licentie](https://www.gutenberg.org/license) bij dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op [www.pgdp.net](http://www.pgdp.net/). |
 | PG Ebook Number | [31310](https://www.gutenberg.org/ebooks/31310) |
